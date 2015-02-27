@@ -1,7 +1,9 @@
 # SSC
 <h1>Simple string crypter  - Written in python</h1>
 
-TODO:
+**TODO:**</p>
+
+_Before you download it, be sure that you have python 2.7.6 installed on you pc._
 
 1 - Download it <p>
 2 - Open terminal where it has been downloaded <p>
