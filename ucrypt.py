@@ -5,12 +5,9 @@ def fibonacci(pos):
     else:
         n = 1
         nn = 0
-        nnn = 0
-                
+        nnn = 0      
         for x in range(0,pos):
-           
           nnn = nn
-
 	  nn = n
 	  n = nn+nnn
         return n
